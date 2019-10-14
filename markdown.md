@@ -6,5 +6,5 @@
 -        b Formatting of text (size, font)
 -        c creating lists
 - B) Markdown can used in conjunction with Github
-      1. Github allows us to share our code or borrow code.
+      1.Github allows us to share our code or borrow code.
          a Github has controls which can be used in addition to markdown controls.
