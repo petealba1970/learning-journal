@@ -1,3 +1,3 @@
 # What I learned about Markdown:
 
-- markdown is ?
+- markdown is ? 5 things we learned from reading
