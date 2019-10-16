@@ -1,5 +1,5 @@
--Javascript seems to have a flexibility to it
--We can give different messages (greetings) depending on certain factors
--It can be interactive with the user as well
--Once you are on the web page you can pull up the code, make changes and see how they apply
--We link out HTML to our javascript much like CSS
+- Javascript seems to have a flexibility to it
+- We can give different messages (greetings) depending on certain factors
+- It can be interactive with the user as well
+- Once you are on the web page you can pull up the code, make changes and see how they apply
+- We link out HTML to our javascript much like CSS
