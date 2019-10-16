@@ -12,4 +12,4 @@
   - mv moves file
   - git add <filename> stages for commit
   - git commit -m "why message" saves a local snapshot 
-  -
+  - git push or git push origin master pushes
