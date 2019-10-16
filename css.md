@@ -4,3 +4,4 @@
 -we can style many ways including the color sheme
 -to style with color in an element we set RGB values, hex codes or color names
 -we can use background color to color inside the elements
+
