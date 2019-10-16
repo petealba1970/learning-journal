@@ -1,5 +1,5 @@
 *What I learned about css*
-- CSS allows to style our pages in an external file
+- CSS allows to style our pages in an external file or inside our HTML
 - We use curly braces for declaration outside of the selector
 - this file can be used to style mutiple pages in a similar manner
 - we can style many ways including the color sheme
