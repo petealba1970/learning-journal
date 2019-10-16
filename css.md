@@ -1,7 +1,12 @@
 *What I learned about css*
 - CSS allows to style our pages in an external file
+- We use curly braces for declaration outside of the selector
 - this file can be used to style mutiple pages in a similar manner
 - we can style many ways including the color sheme
 - to style with color in an element we set RGB values, hex codes or color names
 - we can use background color to color inside the elements
-
+- we can use RGB values to manipulate the color
+- other things such as hue, saturation and brightness can also be changed
+- contrast is important in making the page readable
+- opacity and rgba can also be used to further enhance colors
+- Hsl is a newer way to effect hue, saturation and lightness 
