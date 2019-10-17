@@ -7,7 +7,8 @@
 - ! takes a value and inverts it. : !true returns false
 - Loops allow us to repeat a code block until certain conditions are met ex: for (var i = 0; i < 10; i++)      
 - This is followed by the code to execute during thge loop; ex: {document.write(i);}
-
-  
-  
-
+- Three types of loops 
+- For loops execute code for a certain number of times
+- While loops execute code until a certain condition is met
+-Do While loops also run conditionally but will always run at least once
+-                                                                                                    
