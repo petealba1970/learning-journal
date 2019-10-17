@@ -2,9 +2,10 @@
 - We can use < > and = separately or in combination for specific comparisons, ie: A>B or B<A or B>=A
 - Comparing usually returns a result of true or false
 - It is even possible to evaluate multiple comparisons
-      comparing with && looks to see if both are true: ((5 < 2) && (2 >=3))
-      || comparison looks for one true ((2 < 5) || (2 < 1))
-       ! takes a value and inverts it. : !true returns false
+- comparing with && looks to see if both are true: ((5 < 2) && (2 >=3))
+- || comparison looks for one true ((2 < 5) || (2 < 1))
+- ! takes a value and inverts it. : !true returns false
+      
   
   
   
