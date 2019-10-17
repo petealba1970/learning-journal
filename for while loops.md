@@ -5,8 +5,9 @@
 - comparing with && looks to see if both are true: ((5 < 2) && (2 >=3))
 - || comparison looks for one true ((2 < 5) || (2 < 1))
 - ! takes a value and inverts it. : !true returns false
-      
-  
+- Loops allow us to repeat a code block until certain conditions are met ex: for (var i = 0; i < 10; i++)      
+- This is followed by the code to execute during thge loop; ex: {document.write(i);}
+
   
   
 
