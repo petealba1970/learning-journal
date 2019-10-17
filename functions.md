@@ -1,1 +1,9 @@
-
+- Functions allow a series of statements to perform a specific task
+- We can call on functions when and if we need them
+- Functions need pieces of info called parameters which act like variables to perform 
+- Return value is the term for the function response to the code
+- We must declare a function by giving it a name and statements to achieve a task which are kept in curly braces
+- we call or run the function by using the function name followed by parentheses ex: sayHello();
+- the function can be called upon as many times as needed
+- If we are using parameters, they are known as value arguments or variable arguments
+- Functions return the result of a specified function ex: Return area;
