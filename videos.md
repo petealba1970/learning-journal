@@ -1,2 +1,3 @@
-#Three takeaways from the video
+# Three takeaways from the video
+
 
